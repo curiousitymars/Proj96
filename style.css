@@ -1,0 +1,14 @@
+body
+{
+        background-image:url(thestrals.gif);
+        background-position:center;
+        background-size:cover;
+}
+.color_white
+{
+    color: greenyellow;
+}
+.okay
+{
+    color: skyblue;
+}
